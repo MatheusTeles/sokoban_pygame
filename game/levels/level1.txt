@@ -1,0 +1,26 @@
+; 1-8 Keys
+; A-H Doors
+; @ Start/respawn point
+; $ Goal
+; # Door
+; . Floor (internal)
+; _ Floor (external)  
+; ~ Water
+; * Ice
+; > < ^ v Directional Plates
+; O Pit
+; W w X x Y y Z z Teleporters (max 8 per level, 
+; each connects to only one of the same capitalised 
+; letter Ex. w->w W->W x-/->X Y-/->y) 
+______________________
+_####################_
+_#...@..OOOOOO.x....#_
+_#......OOOOOO......#_
+_#......OOOOOO....2.#_
+_#W.....OOOOOO..W...#_
+_#######OOOOOO#######_
+_#.1...#......#.....#_
+_#.....B..x...#..$..#_
+_#.....#......A.....#_
+_####################_
+______________________
